@@ -20,7 +20,7 @@ Sunstreet is a minimalistic blog template, specially made for Github pages and c
 7. **Disqus** --- Disqus comments plugin, wish SPA hash support.
 8. **Analytics** --- Google Analytics with SPA hash support.
 9. **CMS** check http://project/cms.html
-10. **Code Highlight** code is highlighted using highlightjs.
+
 
 ### Development Features
 1. **Architecture** ---  We try to follow 12Factor app guidlines.

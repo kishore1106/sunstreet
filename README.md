@@ -52,6 +52,4 @@ As for future plan here's a humble brain storm:
 
 
 ## Licence
-![](http://www.gnu.org/graphics/agplv3-155x51.png)
-
-Copyright (c) 2015 Ismail Marmoush and other contributors. Licensed under the Affero GPL V3. See [License](http://www.gnu.org/licenses/agpl.txt)
+Copyright (c) 2015 Ismail Marmoush and other contributors. Licensed under the MIT. See [License](https://opensource.org/licenses/MIT)

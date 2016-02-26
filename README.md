@@ -50,6 +50,7 @@ As for future plan here's a humble brain storm:
 3. More improvements on tests
 4. ~~Continuous integration if necessary.~~ Done
 5. ~~`content.json` validation~~ Done
+6. Move The App demo to here
 
 
 ## Licence

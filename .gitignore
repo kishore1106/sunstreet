@@ -12,3 +12,6 @@ app/*~
 app/styles/*.css
 app/content/*/*.*
 !app/content/*.md
+
+
+.idea

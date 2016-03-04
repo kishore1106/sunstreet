@@ -33,24 +33,29 @@ Sunstreet is a minimalistic blog template, specially made for Github pages and c
 
 ### Users
 You just download the [Demo source](https://github.com/IsmailMarmoush/ismailmarmoush.github.io)  (which is latest version) and edit the `index.html` and `content.json` to fit your needs.
+> Note: The content folder is where you put all of your contents, other folders are for the Application itself.
 
 ### Developers/Hackers
-1. `npm install jshint -g`  you'll need this if you're using emacs jshint adhook.
+1. `npm install jshint -g`  you'll need this if you're using EMACS jshint adhook.
 2. You clone this repo.
 3. cd to the project and `npm install`  and `bower install`
-4. build using `gulp`  , and run test server using  `gulp serve`.
+4. `npm install -g gulp`
+5. build using `gulp`  , and run test server using  `gulp serve`.
 
 ## Contribution and Future features
-Small Pull Requrests are much welcome, just don't forget to comment them, as for bigger PRs they might take longer time since I might not have time reviewing them all.
+Small Pull Requests are much welcome, just don't forget to comment them, as for bigger PRs they might take longer time since I might not have time reviewing them all.
 
 As for future plan here's a humble brain storm:
 
+0. Update dependencies.
+1. gh-pages branch
+1. travis to gh-pages branch
 1. JS code modularity and pluggability.
-2. ~~More reliance on `content.json` file instead of hardcoding any content, e.g disqus configurations~~ Done
-3. More improvements on tests
-4. ~~Continuous integration if necessary.~~ Done
-5. ~~`content.json` validation~~ Done
-6. Move The App demo to here
+1. ~~More reliance on `content.json` file instead of hardcoding any content, e.g disqus configurations~~ Done
+1. More improvements on tests
+1. ~~Continuous integration if necessary.~~ Done
+1. ~~`content.json` validation~~ Done
+
 
 
 ## Licence

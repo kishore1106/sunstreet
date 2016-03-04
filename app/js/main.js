@@ -120,7 +120,7 @@ Animation.menu = function() {
     $('#overlay').toggleClass('open');
   });
   $('.menuIcon').click(function() {
-    $(this).toggleClass('menuIconOpen');
+    $('.menuIcon').toggleClass('menuIconOpen');
     $('#overlay').toggleClass('open');
   });
   $(document).keyup(function(e) {

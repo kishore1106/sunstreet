@@ -41,14 +41,14 @@
   },
   "pages": {
     "0": {
-      "url": "content/pages/page.md",
+      "url": "content/pages/about-dummy.md",
       "title": "About",
       "tag": "",
       "img": "",
       "disqusEnable": false
     },
     "1": {
-      "url": "content/pages/page.md",
+      "url": "content/pages/portfolio-dummy.md",
       "title": "Portfolio",
       "tag": "",
       "img": "",

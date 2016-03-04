@@ -1,6 +1,6 @@
 # Sunstreet
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/zalando/sunstreet/master/LICENSE)
-[![Build Status](https://travis-ci.org/zalando/sunstreet.svg?branch=master)](https://travis-ci.org/m-io/sunstreet)
+[![Build Status](https://travis-ci.org/zalando/sunstreet.svg?branch=master)](https://travis-ci.org/zalando/sunstreet)
 
 <small>By Ismail Marmoush and [Contributers](https://github.com/zalando/sunstreet/graphs/contributors) are much welcome to join. </small>
 

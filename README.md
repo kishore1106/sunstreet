@@ -47,16 +47,16 @@ Small Pull Requests are much welcome, just don't forget to comment them, as for 
 
 As for future plan here's a humble brain storm:
 
-0. Update dependencies.
-1. gh-pages branch
-1. travis to gh-pages branch
-1. JS code modularity and pluggability.
+1. ~~Update dependencies.~~
+1. ~~Removing Personal data~~
+1. ~~Add Markdown test page~~
 1. ~~More reliance on `content.json` file instead of hardcoding any content, e.g disqus configurations~~ Done
-1. More improvements on tests
 1. ~~Continuous integration if necessary.~~ Done
 1. ~~`content.json` validation~~ Done
-
-
+1. JS code modularity and pluggability.
+1. gh-pages branch
+1. travis to gh-pages branch
+1. More improvements on tests
 
 ## Licence
 Copyright (c) 2015 Ismail Marmoush and other contributors. Licensed under the MIT. See [License](https://opensource.org/licenses/MIT)

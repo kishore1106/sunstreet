@@ -29,7 +29,7 @@ Sunstreet is a minimalistic blog template, specially made for Github pages and c
 2. **Javascript** --- Simple and in one file `main.js` the code is is compatible with jshint.
 3. **Html5**
 4. **CSS** --- Built by [Less](http://lesscss.org) for maximum maintability, simplicity, and productivity.
-
+5. **gulp deploy** --- Deploys the distribution to repo gh-pages branch (note I guess it only works when you have push rights)
 
 ### Users
 You just download the [Demo source](https://github.com/IsmailMarmoush/ismailmarmoush.github.io)  (which is latest version) and edit the `index.html` and `content.json` to fit your needs.
@@ -54,7 +54,7 @@ As for future plan here's a humble brain storm:
 1. ~~Continuous integration if necessary.~~ Done
 1. ~~`content.json` validation~~ Done
 1. JS code modularity and pluggability.
-1. gh-pages branch
+1. ~~gh-pages deployment branch~~  Done using `gulp deploy!` super cool
 1. travis to gh-pages branch
 1. More improvements on tests
 

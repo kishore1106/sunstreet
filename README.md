@@ -32,7 +32,7 @@ Sunstreet is a minimalistic blog template, specially made for Github pages and c
 5. **gulp deploy** --- Deploys the distribution to repo gh-pages branch (note I guess it only works when you have push rights)
 
 ### Users
-You just download the [Demo source](https://github.com/IsmailMarmoush/ismailmarmoush.github.io)  (which is latest version) and edit the `index.html` and `content.json` to fit your needs.
+You just download the [Demo source](https://github.com/zalando/sunstreet/tree/gh-pages)  (which is latest version) and edit the `index.html` and `content.json` to fit your needs.
 > Note: The content folder is where you put all of your contents, other folders are for the Application itself.
 
 ### Developers/Hackers

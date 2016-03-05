@@ -4,7 +4,7 @@
 
 <small>By Ismail Marmoush and [Contributers](https://github.com/zalando/sunstreet/graphs/contributors) are much welcome to join. </small>
 
-Sunstreet is a minimalistic blog template, specially made for Github pages and can be statically/dynamically served anywhere else too. You can view the demo from [here](http://marmoush.com) which is my personal blog.
+Sunstreet is a minimalistic blog template, specially made for Github pages and can be statically/dynamically served anywhere else too. You can view the demo from [zalando.github.io/sunstreet](http://zalando.github.io/sunstreet).
 
 ![Screenshot Am I Responsive](https://raw.githubusercontent.com/zalando/sunstreet/master/screentshot.png)
 

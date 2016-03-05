@@ -52,6 +52,12 @@ GP.autoprefixer = require('gulp-autoprefixer');
 // Run
 GP.livereload = require('gulp-livereload');
 
+GP.ghPages = require('gulp-gh-pages');
+ 
+Gulp.task('deploy', function() {
+  return Gulp.src('./dist/**/*')
+    .pipe(GP.ghPages());
+});
 
 // var autoprefixerConf = GP.autoprefixer({
 //   browsers: ['last 1 version']

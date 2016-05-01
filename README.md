@@ -10,17 +10,16 @@ Sunstreet is a minimalistic blog template, specially made for Github pages and c
 
 
 ### Usage Features
-1. **Responsive** --- Try [screenify](http://screenify.com) to see how it looks on different devices.
-2. **Single Page App**  --- Using [Routie](http://projects.jga.me/routie/) we have hash based navigation, that is compatible with github pages, and older browsers.
-2. **Minimalistic** -- The design was inspired by [Medium](http://medium.com), and [Slidebars](http://plugins.adchsm.me/slidebars/) demo website.
-3. **Dynamic TOC** --- A dynamic table of contents  found in the right sidebar Inspired by [stackeditor](http://stackeditor.io).
-4. **Markdown** --- Content written in Markdown format, and compiled on the fly, instead of compiling them into html files then having to upload them.
-5. **Code Hilighting** -- HighlightJS is included.
-6. **Github API** ---  Since contents compiled on the fly this made it possible to also load any document found on github, such as projects' README.md, examples are in demo version.
-7. **Disqus** --- Disqus comments plugin, wish SPA hash support.
-8. **Analytics** --- Google Analytics with SPA hash support.
-9. **CMS** check http://project/cms.html
-
+* **Markdown Template** --- Content written in Markdown format, and **compiled on the fly** to html unlike many other tools.
+* **Responsive** --- Try [screenify](http://screenify.com) to see how it looks on different devices.
+* **Single Page App**  --- Using [Routie](http://projects.jga.me/routie/) we have hash based navigation, that is compatible with github pages, and older browsers e.g http://hostname.com/#/my-first-post.
+* **Minimalistic** -- The design was inspired by [Medium](http://medium.com), and [Slidebars](http://plugins.adchsm.me/slidebars/) demo website.
+* **Dynamic TOC** --- A dynamic table of contents, Inspired by [stackeditor](http://stackeditor.io).
+* **Code Hilighting** -- HighlightJS is included.
+* **Github API** ---  Since contents compiled on the fly this made it possible to also load any document found on github, such as projects' README.md, examples are in demo version.
+* **Disqus** --- Disqus comments plugin, wish SPA hash support.
+* **Analytics** --- Google Analytics with SPA hash support.
+* **CMS** check http://project/cms.html
 
 ### Development Features
 1. **Architecture** ---  We try to follow 12Factor app guidlines.
@@ -47,16 +46,17 @@ Small Pull Requests are much welcome, just don't forget to comment them, as for 
 
 As for future plan here's a humble brain storm:
 
-1. ~~Update dependencies.~~
-1. ~~Removing Personal data~~
-1. ~~Add Markdown test page~~
-1. ~~More reliance on `content.json` file instead of hardcoding any content, e.g disqus configurations~~ Done
-1. ~~Continuous integration if necessary.~~ Done
-1. ~~`content.json` validation~~ Done
-1. JS code modularity and pluggability.
-1. ~~gh-pages deployment branch~~  Done using `gulp deploy!` super cool
-1. travis to gh-pages branch
-1. More improvements on tests
+* ~~Update dependencies.~~
+* ~~Removing Personal data~~
+* ~~Add Markdown test page~~
+* ~~More reliance on `content.json` file instead of hardcoding any content, e.g disqus configurations~~ Done
+* ~~Continuous integration if necessary.~~ Done
+* ~~`content.json` validation~~ Done
+* JS code modularity and pluggability.
+* CSS templating
+* ~~gh-pages deployment branch~~  Done using `gulp deploy!` super cool
+* Travis to gh-pages branch
+* More improvements on tests
 
 ## Licence
 Copyright (c) 2015 Ismail Marmoush and other contributors. Licensed under the MIT. See [License](https://opensource.org/licenses/MIT)

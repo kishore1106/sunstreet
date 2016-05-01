@@ -10,7 +10,8 @@ Sunstreet is a minimalistic blog template, specially made for Github pages and c
 
 
 ### Usage Features
-* **Markdown Template** --- Content written in Markdown format, and **compiled on the fly** to html unlike many other tools.
+* **Markdown Template** --- You write your documents in markdown, add the new post path to the content.json file and that's it.
+* **Runtime compilation** --- After you write your documents, you only need to push to the repository, so no html compilation which means you don't need to install nodejs/ruby in order to have a blog, unlike many other tools (e.g Octopus) which requires you to compile templates everytime you edit a post.
 * **Responsive** --- Try [screenify](http://screenify.com) to see how it looks on different devices.
 * **Single Page App**  --- Using [Routie](http://projects.jga.me/routie/) we have hash based navigation, that is compatible with github pages, and older browsers e.g http://hostname.com/#/my-first-post.
 * **Minimalistic** -- The design was inspired by [Medium](http://medium.com), and [Slidebars](http://plugins.adchsm.me/slidebars/) demo website.
